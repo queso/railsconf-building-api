@@ -37,4 +37,7 @@
 !SLIDE bullets incremental
 # Derek Willis #
 
-* NY Times
+* NYTimes.com
+* open.nytimes.com
+* github.com/nytimes
+* @derekwillis
