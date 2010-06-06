@@ -14,30 +14,35 @@
 # Joe Ferris #
 
 * Thoughtbot
-* HoptoadApp.com
+* @joeferris
+* github.com/jferris
 
 !SLIDE bullets incremental
 # Jeremy Kemper #
 
 * 37signals
-* CampfireNow.com
-* BasecampHQ.com
-* HighriseHQ.com
+* @bitsweat
+* github.com/jeremy
+
 
 !SLIDE bullets incremental
 # Marcel Molina #
 
-* Twitter.com
+* Twitter
+* @noradio
+* github.com/marcel
 
 !SLIDE bullets incremental
-# Chris Wanstrath #
+# Rick Olsen #
 
-* Github.com
+* Github
+* @technoweenie
+* github.com/technoweenie
 
 !SLIDE bullets incremental
 # Derek Willis #
 
-* NYTimes.com
+* NYTimes
 * open.nytimes.com
 * github.com/nytimes
 * @derekwillis
