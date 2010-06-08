@@ -33,7 +33,7 @@
 * github.com/marcel
 
 !SLIDE bullets incremental
-# Rick Olsen #
+# Rick Olson #
 
 * Github
 * @technoweenie
